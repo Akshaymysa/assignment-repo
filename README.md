@@ -1,4 +1,15 @@
 # assignment-repo
+
+Important links:
+Application url:
+http://18.217.231.21:5000/hello
+Jenkins Job url:
+http://18.217.231.21:8080/job/assignment-job/
+GIT url with release branch:
+https://github.com/Akshaymysa/assignment-repo/edit/release/assignment-demo/README.md
+GIT mail url:
+
+
 1. Created Application using Python Flask framework
 
 Direct application url: http://18.217.231.21:5000/hello
@@ -34,4 +45,7 @@ BONUS QUESTIONS:
 
 For merge with master branch, developer need to raise PullRequest, which will be approved by Reviewer.
 
+#########Latest Update###########
+Post commit, auto triggered Jenkins url is as follows:
+http://18.217.231.21:8080/job/assignment-job/3/console
 
