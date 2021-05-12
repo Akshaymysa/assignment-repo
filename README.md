@@ -3,11 +3,18 @@
 Important links:
 Application url:
 http://18.217.231.21:5000/hello
+
+
 Jenkins Job url:
 http://18.217.231.21:8080/job/assignment-job/
+
+
 GIT url with release branch:
 https://github.com/Akshaymysa/assignment-repo/edit/release/assignment-demo/README.md
+
+
 GIT mail url:
+https://github.com/Akshaymysa/assignment-repo/edit/main/README.md
 
 
 1. Created Application using Python Flask framework
