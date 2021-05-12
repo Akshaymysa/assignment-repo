@@ -42,9 +42,11 @@ Password: admin123
  - As soon as new commit is there in release/assignment-demo branch
  - Pipeline will be triggered and do the following tasks:
  - Download the latest code
+ - Run the pytest to assert the code
  - Create the new light weight image
  - Stop all existing container
  - Launch new container with port forwarding at port 5000
+ - Test the application url if its working
 
 BONUS QUESTIONS:
 
