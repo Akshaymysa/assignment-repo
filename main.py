@@ -8,7 +8,7 @@ app.config["DEBUG"] = True
 
 @app.route('/health', methods=['GET'])
 def health():
-    return "Healthy"
+    return "Healthy Release"
 
 @app.route('/hello')
 def summary():
